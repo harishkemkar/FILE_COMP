@@ -1,0 +1,10 @@
+Analysis of file comparison 
+Same column in current and previous file
+ Record count of  previous file 908
+ Record count of  current file 989
+ Difference in record count 81
+Percentage change  is 8.190091001011123
+ Column specific details in current file
+ Max Age is 58
+ Min Age is 21
+ Average Age is 33.25783619817998
